@@ -1,11 +1,12 @@
 package main
 
-import (
-	"config"
-	"fmt"
-)
+//import (
+//	"config"
+//	"fmt"
+//)
 
-func main() {
-	config.LoadConfig()
-	fmt.Println("Hello, GO!")
-}
+//func main() {
+//	config.LoadConfig()
+//	fmt.Println("Hello, GO!")
+
+//}
